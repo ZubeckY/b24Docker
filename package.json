@@ -1,0 +1,8 @@
+{
+  "name": "spasateli",
+  "version": "1.0.0",
+  "scripts": {
+    "start": "docker-compose up",
+    "stop": "docker-compose stop"
+  }
+}
